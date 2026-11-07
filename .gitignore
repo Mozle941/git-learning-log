@@ -4,6 +4,9 @@
 *.suo
 *.userosscache
 *.sln.docstates
+# Brud
+.brud/
+
 
 # OS generated files
 Thumbs.db
